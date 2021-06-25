@@ -7,7 +7,7 @@
 <style>
 
     body{
-        background-color: #c7eff1
+        background-color: red
     }
     @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
 
@@ -856,7 +856,7 @@ header .fa-bars{
 
     <div class="card">
         <span class="discount">-35%</span>
-        <img src="https://github.com/souradeepsingha/tourism2.git.io/blob/main/YUVARAJ.jpeg?raw=true" alt="">
+      <img src="https://github.com/souradeepsingha/tourism2.git.io/blob/main/YUVARAJ.jpeg?raw=true" alt="">
         <div class="content">
             <h3 class="title"> YUVARAJ HOTEL </h3>
             <p>it is a luxary hotel and it is  a four flor hotel where you enjoying the whole trip with your familly</p>
