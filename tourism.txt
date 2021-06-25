@@ -952,7 +952,7 @@ header .fa-bars{
     </div>
 
     <div class="box">
-        <img src="img/mdan mohan mandir.jpeg" alt="">
+        <img src="https://hddesktopwallpapers.in/wp-content/uploads/2015/09/scotland-pictures.jpg" alt="">
         <div class="icons">
             <a href="#" class="fas fa-heart"></a>
             <a href="#" class="fas fa-share"></a>
