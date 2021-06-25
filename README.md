@@ -889,7 +889,7 @@ header .fa-bars{
 
     <div class="card">
         <span class="discount">-45%</span>
-        <img src="IMG/ELLORA.jpeg" alt="">
+        <img src="" alt="">
         <div class="content">
             <h3 class="title"> HOTEL ELLORA </h3>
             <p>this is a best hotel where you stay this is in main town</p>
