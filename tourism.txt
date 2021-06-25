@@ -856,7 +856,7 @@ header .fa-bars{
 
     <div class="card">
         <span class="discount">-35%</span>
-        <img src="IMG/YUVARAJ.jpeg" alt="">
+        <img src="https://github.com/souradeepsingha/tourism2.git.io/blob/main/YUVARAJ.jpeg?raw=true" alt="">
         <div class="content">
             <h3 class="title"> YUVARAJ HOTEL </h3>
             <p>it is a luxary hotel and it is  a four flor hotel where you enjoying the whole trip with your familly</p>
