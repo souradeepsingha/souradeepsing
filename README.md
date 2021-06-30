@@ -7,7 +7,7 @@
 <style>
 
     body{
-        background-color: red
+        background-color: #c7eff1
     }
     @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
 
