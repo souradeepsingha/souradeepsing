@@ -6,7 +6,7 @@
      <meta name="description" content="This is description">
     <meta name="keywords" content="html, html tutorials, web development,souradeep singha">
     <meta name="robots" content="INDEX, FOLLOW">
-    <title> ATTRACT TOURISM WEBSITE</title>
+    <title> souradeep singha</title>
 <style>
 
     body{
