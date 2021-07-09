@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="description" content="This is description">
+    <meta name="keywords" content="html, html tutorials, web development,souradeep singha">
+    <meta name="robots" content="INDEX, FOLLOW">
     <title> ATTRACT TOURISM WEBSITE</title>
 <style>
 
